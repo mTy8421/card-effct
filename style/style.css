@@ -32,3 +32,9 @@
     right: -25px;
     animation-name: move-down;
 }
+
+@keyframes move-up{
+    to{
+        transform: translateY(-10px);
+    }
+}
