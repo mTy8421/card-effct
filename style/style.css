@@ -13,3 +13,9 @@
     border-radius: 8px;
 }
 
+.circle{
+    width: 100px;
+    height: 100px;
+    background: radial-gradient(#b0e633, #53ef7d);
+    
+}
