@@ -26,3 +26,9 @@
     top: -25px;
     left: -25px;
 }
+
+.circle:nth-child(2){
+    bottom: -25px;
+    right: -25px;
+    animation-name: move-down;
+}
